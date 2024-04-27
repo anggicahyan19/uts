@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "32566390129",
+    "firebase_url": "https://utspabanggi-firebase-default-rtdb.firebaseio.com",
+    "project_id": "utspabanggi-firebase",
+    "storage_bucket": "utspabanggi-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32566390129:android:bc4825aac0ff89754f5ad0",
+        "android_client_info": {
+          "package_name": "com.example.uts_pab_anggi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbegiIjsDC9ghbGeXamS4__PO4KHpCaYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
